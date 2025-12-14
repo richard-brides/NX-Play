@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Sinopse</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+
+    <div class="background"></div>
+
+    <button class="back-button-sinopse" onclick="window.location.href='index.html'">
+        <i class="fa-solid fa-angle-left"></i>
+    </button>
+
+    <div id="movie" class="content"></div>
+
+    <script src="api.js"></script>
+    <script>
+        const id = new URLSearchParams(window.location.search).get("id");
+        loadMovie(id);
+    </script>
+
+</body>
+
+</html>

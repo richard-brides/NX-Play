@@ -1,0 +1,101 @@
+{
+    "category": "movies",
+    "data": [
+        {
+            "id": 96,
+            "title": "Tomb Raider: A Origem",
+            "description": "Lara Croft parte em busca de seu pai desaparecido, explorando uma ilha mítica repleta de perigos. Determinada a desvendar o mistério, ela enfrenta desafios extremos usando sua inteligência e coragem.",
+            "banner": "https://nxplay-images.comets.com.br/resize/685a9b4b28970_7565ddb7f53a82e56e0283fe92c511eb.jpg",
+            "cover": "https://nxplay-images.comets.com.br/resize/685a9b4b28970_7565ddb7f53a82e56e0283fe92c511eb.jpg/320x180",
+            "hls": "https://vz-5fbb03ca-1d4.b-cdn.net/c796cea7-4fe0-491d-a752-4d763ccdc5fe/playlist.m3u8"
+        },
+        {
+            "id": 146,
+            "title": "Os Infratores",
+            "description": "A fome e a violência foram erradicadas da Terra, bem como os problemas climáticos do planeta foram resolvidos. Estes feitos corpos humanos como se fossem parasitas. foram conquistados graças aos seres alienígenas conhecidos como almas, que ocupam",
+            "banner": "https://nxplay-images.comets.com.br/resize/68497a8e6aee9_db7593e3974125be63ea4e10b996b172.jpg",
+            "cover": "https://nxplay-images.comets.com.br/resize/68497a8e6aee9_db7593e3974125be63ea4e10b996b172.jpg/320x180",
+            "hls": "https://vz-5fbb03ca-1d4.b-cdn.net/f23bd530-28af-4ec9-b2fc-aa60a7ebac83/playlist.m3u8"
+        },
+        {
+            "id": 189,
+            "title": "Mercenário",
+            "description": "Thriller noir sobre um criminoso em busca de redenção ao tentar encontrar a filha da mulher que ele matou. Ao longo do caminho, ele é assombrado por sua culpa na forma do fantasma da mulher.",
+            "banner": "https://nxplay-images.comets.com.br/resize/683713ae1aeb9_412ea2cddc9fe076e51a351dad27c79b.jpg",
+            "cover": "https://nxplay-images.comets.com.br/resize/683713ae1aeb9_412ea2cddc9fe076e51a351dad27c79b.jpg/320x180",
+            "hls": "https://vz-3c8f92e1-3e7.b-cdn.net/308aa74a-6f73-4bcc-94cc-730213ac1f7f/playlist.m3u8"
+        },
+        {
+            "id": 1174,
+            "title": "Escape Room",
+            "description": "Seis estranhos se encontram em um labirinto de salas mortais de mistério e precisam usar sua inteligência para sobreviver.",
+            "banner": "https://nxplay-images.comets.com.br/resize/movies/banners/6899d990a932d_1754913168.jpg",
+            "cover": "https://nxplay-images.comets.com.br/resize/movies/covers/6899d98f6c3f2_1754913167.jpg/320x180",
+            "hls": "https://vz-5fbb03ca-1d4.b-cdn.net/5ed07288-8d40-4c58-8d93-5a59fd05d5a4/playlist.m3u8"
+        },
+        {
+            "id": 1178,
+            "title": "Creed III",
+            "description": "Quando um amigo de infância e ex-prodigio do boxe, Damian (Jonathan Majors), ressurge depois de cumprir uma longa sentença na prisão, ele está ansioso para provar que merece sua chance no ringue. Damian pede a ajuda de Creed para que ele o ajude a voltar para os campeonatos de luta. Apesar de tudo, dezoito anos na prisão mudam a pessoa e Damian não está nada satisfeito que Creed tomou seu lugar no ringue de boxe. Dois velhos amigos então vão lutar para enfrentar seus passados juntos e enfrentar o futuro que os aguarda.",
+            "banner": "https://nxplay-images.comets.com.br/resize/movies/banners/68af695335f47_1756326227.jpg",
+            "cover": "https://nxplay-images.comets.com.br/resize/movies/covers/68af6951f21e8_1756326225.jpg/320x180",
+            "hls": "https://vz-5fbb03ca-1d4.b-cdn.net/9d91b902-1cb7-46e2-aa07-1a6c052e4bad/playlist.m3u8"
+        },
+        {
+            "id": 1184,
+            "title": "Sicario: Terra de Ninguém",
+            "description": "Na crescente fronteira sem lei entre os Estados Unidos e o México, uma agente do FBI é exposta ao mundo brutal do tráfico internacional de drogas por membros de uma força-tarefa do governo que a escalam em seu plano para derrotar o chefe de um cartel mexicano.",
+            "banner": "https://nxplay-images.comets.com.br/resize/movies/banners/68c95160eca59_1758024032.jpg",
+            "cover": "https://nxplay-images.comets.com.br/resize/movies/covers/68c9516063b57_1758024032.jpg/320x180",
+            "hls": "https://vz-5fbb03ca-1d4.b-cdn.net/35081929-019d-4d25-957a-0c28d751c788/playlist.m3u8"
+        },
+        {
+            "id": 97,
+            "title": "Tomb Raider: A Origem",
+            "description": "Lara Croft parte em busca de seu pai desaparecido, explorando uma ilha mítica repleta de perigos. Determinada a desvendar o mistério, ela enfrenta desafios extremos usando sua inteligência e coragem.",
+            "banner": "https://nxplay-images.comets.com.br/resize/685a9b4b28970_7565ddb7f53a82e56e0283fe92c511eb.jpg",
+            "cover": "https://nxplay-images.comets.com.br/resize/685a9b4b28970_7565ddb7f53a82e56e0283fe92c511eb.jpg/320x180",
+            "hls": "https://vz-5fbb03ca-1d4.b-cdn.net/c796cea7-4fe0-491d-a752-4d763ccdc5fe/playlist.m3u8"
+        },
+        {
+            "id": 147,
+            "title": "Os Infratores",
+            "description": "A fome e a violência foram erradicadas da Terra, bem como os problemas climáticos do planeta foram resolvidos. Estes feitos corpos humanos como se fossem parasitas. foram conquistados graças aos seres alienígenas conhecidos como almas, que ocupam",
+            "banner": "https://nxplay-images.comets.com.br/resize/68497a8e6aee9_db7593e3974125be63ea4e10b996b172.jpg",
+            "cover": "https://nxplay-images.comets.com.br/resize/68497a8e6aee9_db7593e3974125be63ea4e10b996b172.jpg/320x180",
+            "hls": "https://vz-5fbb03ca-1d4.b-cdn.net/f23bd530-28af-4ec9-b2fc-aa60a7ebac83/playlist.m3u8"
+        },
+        {
+            "id": 190,
+            "title": "Mercenário",
+            "description": "Thriller noir sobre um criminoso em busca de redenção ao tentar encontrar a filha da mulher que ele matou. Ao longo do caminho, ele é assombrado por sua culpa na forma do fantasma da mulher.",
+            "banner": "https://nxplay-images.comets.com.br/resize/683713ae1aeb9_412ea2cddc9fe076e51a351dad27c79b.jpg",
+            "cover": "https://nxplay-images.comets.com.br/resize/683713ae1aeb9_412ea2cddc9fe076e51a351dad27c79b.jpg/320x180",
+            "hls": "https://vz-3c8f92e1-3e7.b-cdn.net/308aa74a-6f73-4bcc-94cc-730213ac1f7f/playlist.m3u8"
+        },
+        {
+            "id": 1175,
+            "title": "Escape Room",
+            "description": "Seis estranhos se encontram em um labirinto de salas mortais de mistério e precisam usar sua inteligência para sobreviver.",
+            "banner": "https://nxplay-images.comets.com.br/resize/movies/banners/6899d990a932d_1754913168.jpg",
+            "cover": "https://nxplay-images.comets.com.br/resize/movies/covers/6899d98f6c3f2_1754913167.jpg/320x180",
+            "hls": "https://vz-5fbb03ca-1d4.b-cdn.net/5ed07288-8d40-4c58-8d93-5a59fd05d5a4/playlist.m3u8"
+        },
+        {
+            "id": 1179,
+            "title": "Creed III",
+            "description": "Quando um amigo de infância e ex-prodigio do boxe, Damian (Jonathan Majors), ressurge depois de cumprir uma longa sentença na prisão, ele está ansioso para provar que merece sua chance no ringue. Damian pede a ajuda de Creed para que ele o ajude a voltar para os campeonatos de luta. Apesar de tudo, dezoito anos na prisão mudam a pessoa e Damian não está nada satisfeito que Creed tomou seu lugar no ringue de boxe. Dois velhos amigos então vão lutar para enfrentar seus passados juntos e enfrentar o futuro que os aguarda.",
+            "banner": "https://nxplay-images.comets.com.br/resize/movies/banners/68af695335f47_1756326227.jpg",
+            "cover": "https://nxplay-images.comets.com.br/resize/movies/covers/68af6951f21e8_1756326225.jpg/320x180",
+            "hls": "https://vz-5fbb03ca-1d4.b-cdn.net/9d91b902-1cb7-46e2-aa07-1a6c052e4bad/playlist.m3u8"
+        },
+        {
+            "id": 1185,
+            "title": "Sicario: Terra de Ninguém",
+            "description": "Na crescente fronteira sem lei entre os Estados Unidos e o México, uma agente do FBI é exposta ao mundo brutal do tráfico internacional de drogas por membros de uma força-tarefa do governo que a escalam em seu plano para derrotar o chefe de um cartel mexicano.",
+            "banner": "https://nxplay-images.comets.com.br/resize/movies/banners/68c95160eca59_1758024032.jpg",
+            "cover": "https://nxplay-images.comets.com.br/resize/movies/covers/68c9516063b57_1758024032.jpg/320x180",
+            "hls": "https://vz-5fbb03ca-1d4.b-cdn.net/35081929-019d-4d25-957a-0c28d751c788/playlist.m3u8"
+        }
+    ]
+}

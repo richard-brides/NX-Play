@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>NxPlay</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+     <header>
+        <img src="assets/logo.png" class="logo" />
+    </header>
+
+    <div class="carousel-wrapper">
+        <h2 class="carousel-title">Filmes</h2>
+        <div class="carousel" id="carousel"></div>
+        <button class="arrow-left" id="scrollLeftBtn">
+            <i class="fa-solid fa-angle-left"></i>
+        </button>
+        <button class="arrow-right" id="scrollRightBtn">
+            <i class="fa-solid fa-angle-right"></i>
+        </button>
+    </div>
+
+    <script src="api.js"></script>
+    <script>
+        loadMovies();
+    </script>
+
+</body>
+</html>
