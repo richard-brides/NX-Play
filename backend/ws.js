@@ -22,7 +22,7 @@ function handlePlayerEvent(data, ws) {
     
     switch (event) {
         case "play":
-            console.log(`Reprodução iniciada.`);
+            console.log(`Reprodução iniciada. Id: ${movieId}`);
             break;
 
         case "playing":
