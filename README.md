@@ -1,26 +1,29 @@
-🎬 NX-Play
+**🎬 NX-Play**
 
 O projeto simula uma plataforma de streaming simples, permitindo explorar conceitos comuns em aplicações reais, como consumo de APIs, Web Socket e Player HSL.
 
 ▶️ Como Executar o Projeto
 
-Pré-requisitos:
-Node.js (versão LTS recomendada);
-NPM;
+**Pré-requisitos:**
+- Node.js (versão LTS recomendada)
+- NPM
   
-Inicial:
-cd backend
-npm install
+**Inicial:**
 
-Iniciar API:
-cd backend
-node server.js
+- cd backend
+- npm install
 
-Iniciar WS:
-cd backend
-node ws.js
+**Iniciar API:**
 
-Os servidores serão iniciados em:
+- cd backend
+- node server.js
 
-API: Porta 3000;
-WebSocket: Porta 3001;
+**Iniciar WS:**
+
+- cd backend
+- node ws.js
+
+**Os servidores serão iniciados em:**
+
+- API: Porta 3000
+- WebSocket: Porta 3001
